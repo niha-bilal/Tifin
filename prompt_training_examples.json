@@ -1,0 +1,1314 @@
+[
+  {
+    "sentence": "You guys provide EMI option?",
+    "label": "EMI"
+  },
+  {
+    "sentence": "Do you offer Zero Percent EMI payment options?",
+    "label": "EMI"
+  },
+  {
+    "sentence": "0% EMI.",
+    "label": "EMI"
+  },
+  {
+    "sentence": "EMI",
+    "label": "EMI"
+  },
+  {
+    "sentence": "I want in installment",
+    "label": "EMI"
+  },
+  {
+    "sentence": "I want it on 0% interest",
+    "label": "EMI"
+  },
+  {
+    "sentence": "How to get in EMI",
+    "label": "EMI"
+  },
+  {
+    "sentence": "what about emi options",
+    "label": "EMI"
+  },
+  {
+    "sentence": "I need emi payment.",
+    "label": "EMI"
+  },
+  {
+    "sentence": "How to EMI",
+    "label": "EMI"
+  },
+  {
+    "sentence": "I want to buy on EMI",
+    "label": "EMI"
+  },
+  {
+    "sentence": "I want to buy this in installments",
+    "label": "EMI"
+  },
+  {
+    "sentence": "0% Emi",
+    "label": "EMI"
+  },
+  {
+    "sentence": "Down payments",
+    "label": "EMI"
+  },
+  {
+    "sentence": "Installments",
+    "label": "EMI"
+  },
+  {
+    "sentence": "How about Paisa finance",
+    "label": "EMI"
+  },
+  {
+    "sentence": "Paisa finance service available",
+    "label": "EMI"
+  },
+  {
+    "sentence": "What is minimum down payment",
+    "label": "EMI"
+  },
+  {
+    "sentence": "Paisa Finance is available",
+    "label": "EMI"
+  },
+  {
+    "sentence": "Do you accept Paisa EMI card",
+    "label": "EMI"
+  },
+  {
+    "sentence": "Can we buy through Paisa finance",
+    "label": "EMI"
+  },
+  {
+    "sentence": "EMI Option",
+    "label": "EMI"
+  },
+  {
+    "sentence": "Paisa Finance",
+    "label": "EMI"
+  },
+  {
+    "sentence": "No cost EMI is available?",
+    "label": "EMI"
+  },
+  {
+    "sentence": "Is EMI available",
+    "label": "EMI"
+  },
+  {
+    "sentence": "COD option is availble?",
+    "label": "COD"
+  },
+  {
+    "sentence": "Do you offer COD to my pincode?",
+    "label": "COD"
+  },
+  {
+    "sentence": "Can I do COD?",
+    "label": "COD"
+  },
+  {
+    "sentence": "COD",
+    "label": "COD"
+  },
+  {
+    "sentence": "Is it possible to COD",
+    "label": "COD"
+  },
+  {
+    "sentence": "Cash on delivery is acceptable?",
+    "label": "COD"
+  },
+  {
+    "sentence": "Can pay later on delivery",
+    "label": "COD"
+  },
+  {
+    "sentence": "DO you have COD option",
+    "label": "COD"
+  },
+  {
+    "sentence": "Can it deliver by COD",
+    "label": "COD"
+  },
+  {
+    "sentence": "Is COD option available",
+    "label": "COD"
+  },
+  {
+    "sentence": "Can I get COD option?",
+    "label": "COD"
+  },
+  {
+    "sentence": "Cash on delivery is available",
+    "label": "COD"
+  },
+  {
+    "sentence": "Features of Ortho mattress",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "What are the key features of the SOF Ortho mattress",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "SOF ortho",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "Ortho mattress",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "Ortho features",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "ortho",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "Tell me about SOF Ortho mattress",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "Have a back problem",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "I have back pain issue",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "Back Pain",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "Is it orthopaedic",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "Neck pain and back pain",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "back ache issue",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "I m looking mattress for slip disc problem",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "Do we have anything for backache",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "I am cervical and Lombard section problem",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "Is there orthopedic mattress available",
+    "label": "ORTHO_FEATURES"
+  },
+  {
+    "sentence": "What are the key features of the SOF Ergo mattress",
+    "label": "ERGO_FEATURES"
+  },
+  {
+    "sentence": "Features of Ergo mattress",
+    "label": "ERGO_FEATURES"
+  },
+  {
+    "sentence": "SOF ergo",
+    "label": "ERGO_FEATURES"
+  },
+  {
+    "sentence": "Ergo mattress",
+    "label": "ERGO_FEATURES"
+  },
+  {
+    "sentence": "Ergo features",
+    "label": "ERGO_FEATURES"
+  },
+  {
+    "sentence": "Ergo",
+    "label": "ERGO_FEATURES"
+  },
+  {
+    "sentence": "Tell me about SOF Ergo mattress",
+    "label": "ERGO_FEATURES"
+  },
+  {
+    "sentence": "What about ergo",
+    "label": "ERGO_FEATURES"
+  },
+  {
+    "sentence": "What is responsive foam",
+    "label": "ERGO_FEATURES"
+  },
+  {
+    "sentence": "SOF ergo features",
+    "label": "ERGO_FEATURES"
+  },
+  {
+    "sentence": "Does this have ergonomic support?",
+    "label": "ERGO_FEATURES"
+  },
+  {
+    "sentence": "What is the difference between the Ergo & Ortho variants",
+    "label": "COMPARISON"
+  },
+  {
+    "sentence": "Difference between Ergo & Ortho Mattress",
+    "label": "COMPARISON"
+  },
+  {
+    "sentence": "Difference between the products",
+    "label": "COMPARISON"
+  },
+  {
+    "sentence": "Compare the 2 mattresses",
+    "label": "COMPARISON"
+  },
+  {
+    "sentence": "Product comparison",
+    "label": "COMPARISON"
+  },
+  {
+    "sentence": "Comparison",
+    "label": "COMPARISON"
+  },
+  {
+    "sentence": "Which mattress to buy?",
+    "label": "COMPARISON"
+  },
+  {
+    "sentence": "Is the mattress good for my back",
+    "label": "COMPARISON"
+  },
+  {
+    "sentence": "Mattress comparison",
+    "label": "COMPARISON"
+  },
+  {
+    "sentence": "Compare ergo & ortho variants",
+    "label": "COMPARISON"
+  },
+  {
+    "sentence": "I wanna know the difference",
+    "label": "COMPARISON"
+  },
+  {
+    "sentence": "What is the warranty period?",
+    "label": "WARRANTY"
+  },
+  {
+    "sentence": "Warranty",
+    "label": "WARRANTY"
+  },
+  {
+    "sentence": "Does mattress cover is included in warranty",
+    "label": "WARRANTY"
+  },
+  {
+    "sentence": "How long is the warranty you offer on your mattresses and what does it cover",
+    "label": "WARRANTY"
+  },
+  {
+    "sentence": "Do you offer warranty",
+    "label": "WARRANTY"
+  },
+  {
+    "sentence": "Tell me about the product warranty",
+    "label": "WARRANTY"
+  },
+  {
+    "sentence": "Share warranty information",
+    "label": "WARRANTY"
+  },
+  {
+    "sentence": "Need to know the warranty details",
+    "label": "WARRANTY"
+  },
+  {
+    "sentence": "Want to know about warranty",
+    "label": "WARRANTY"
+  },
+  {
+    "sentence": "would interested in warranty details",
+    "label": "WARRANTY"
+  },
+  {
+    "sentence": "How does the 100 night trial work",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "What is the 100-night offer",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "Trial details",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "How to enroll for trial",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "100 night trial",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "Is the 100 night return trial applicable for custom size as well",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "100 night",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "Trial offer on customisation",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "do you provide exchange",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "Can I try a mattress first",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "I want to check offers",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "What is 100 Night trial offer",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "Need 100 days trial",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "100 days trial",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "Can I get free trial",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "100 Nights trial version",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "Can you give me 100 night trial",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "100 free Nights",
+    "label": "100_NIGHT_TRIAL_OFFER"
+  },
+  {
+    "sentence": "I want to change the size of the mattress.",
+    "label": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "sentence": "Need some help in changing size of the mattress",
+    "label": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "sentence": "How can I order a custom sized mattress",
+    "label": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "sentence": "Custom size",
+    "label": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "sentence": "Customise size",
+    "label": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "sentence": "Customisation is possible?",
+    "label": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "sentence": "Will I get an option to Customise the size",
+    "label": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "sentence": "Can mattress size be customised?",
+    "label": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "sentence": "Mattress size change",
+    "label": "SIZE_CUSTOMIZATION"
+  },
+  {
+    "sentence": "Can you help with the size?",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "How do I know what size to order?",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "How do I know the size of my bed?",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "Inches",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "Length",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "Feet",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "6*3",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "Help me with the size chart",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "What are the available sizes?",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "Can I please have the size chart?",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "Share the size structure",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "What are the sizes available?",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "Want to know the custom size chart",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "Mattress size",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "What size to order?",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "Show me all available sizes",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "What are the sizes",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "What are the available mattress sizes",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "King Size",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "Inches",
+    "label": "WHAT_SIZE_TO_ORDER"
+  },
+  {
+    "sentence": "Get in Touch",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "Want to talk to an live agent",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "Please call me",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "Do you have Live agent",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "Want to get in touch",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "Schedule a callback",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "Arrange a call back",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "How to get in touch?",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "Interested in buying",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "I want to buy this",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "How to buy?",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "How to order",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "I want to order",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "Connect to an agent",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "Get In Touch",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "I want a call back",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "I need a call back",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "Please call me back",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "Call me now",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "I want to buy",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "Need a call from your representative",
+    "label": "LEAD_GEN"
+  },
+  {
+    "sentence": "Do you deliver to my pincode",
+    "label": "CHECK_PINCODE"
+  },
+  {
+    "sentence": "Check pincode",
+    "label": "CHECK_PINCODE"
+  },
+  {
+    "sentence": "Is delivery possible on this pincode",
+    "label": "CHECK_PINCODE"
+  },
+  {
+    "sentence": "Will you be able to deliver here",
+    "label": "CHECK_PINCODE"
+  },
+  {
+    "sentence": "Can you make delivery on this pin code?",
+    "label": "CHECK_PINCODE"
+  },
+  {
+    "sentence": "Can you deliver on my pincode",
+    "label": "CHECK_PINCODE"
+  },
+  {
+    "sentence": "Do you deliver to",
+    "label": "CHECK_PINCODE"
+  },
+  {
+    "sentence": "Can you please deliver on my pincode",
+    "label": "CHECK_PINCODE"
+  },
+  {
+    "sentence": "Need a delivery on this pincode",
+    "label": "CHECK_PINCODE"
+  },
+  {
+    "sentence": "Can I get delivery on this pincode",
+    "label": "CHECK_PINCODE"
+  },
+  {
+    "sentence": "Do you have any showrooms in Delhi state",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Do you have any distributors in Mumbai city",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Do you have any retailers in Pune city",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Where can I see the product before I buy",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "What is the price for size (x ft x y ft)? What is the price for size (x inches x y inches)?",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Distributors",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Distributors/Retailers/Showrooms",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Where is your showroom",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Do you have a showroom",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Can I visit SOF mattress showroom",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Where is your showroom",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Nearby Show room",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Do you have Showroom",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Need store",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Need Nearby Store",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Nearest shop",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Demo store",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Is there any offline stores",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Head office",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Shops nearby",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Where was this shop",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Offline stores",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Do you have store",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Where is the shop",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Is it available in shops",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "You have any branch",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Store in",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "We want dealer ship",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Any shop that I can visit",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Dealership",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Shop near by",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Need dealership",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Outlet",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Store near me",
+    "label": "DISTRIBUTORS"
+  },
+  {
+    "sentence": "Price of mattress",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "Mattress cost",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "Cost of mattress",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "How much does a SOF mattress cost",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "Cost",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "Custom size cost",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "What does the mattress cost",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "I need price",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "Price Range",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "Mattress price",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "Price of Mattress",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "Want to know the price",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "How Much Cost",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "Price",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "Rate",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "MRP",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "Low price",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "What will be the price",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "Cost of Bed",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "Cost of Mattress",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "Mattress cost",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "What is the cost",
+    "label": "MATTRESS_COST"
+  },
+  {
+    "sentence": "What are the product variants",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "Product Variants",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "Help me with different products",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "What are the mattress variants",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "I want to check products",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "What are the SOF mattress products",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "Show me products",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "Which product is best",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "Which mattress is best",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "I want to buy a mattress",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "Products",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "View products",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "Type of foam used",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "Mattress variants",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "Mattress Features",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "I am looking the mattress",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "Type of mattress",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "Show more mattress",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "What are the mattress features",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "What are your products",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "Tell me about SOF mattress features",
+    "label": "PRODUCT_VARIANTS"
+  },
+  {
+    "sentence": "How is SOF different from other mattress brands",
+    "label": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "sentence": "Why SOF mattress",
+    "label": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "sentence": "About SOF Mattress",
+    "label": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "sentence": "What is SOF mattress",
+    "label": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "sentence": "Tell me about SOF mattresses",
+    "label": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "sentence": "Who are SOF mattress",
+    "label": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "sentence": "What is SOF",
+    "label": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "sentence": "How is SOF mattress different from",
+    "label": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "sentence": "Tell me about SOF Mattress",
+    "label": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "sentence": "Tell me about company",
+    "label": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "sentence": "Who is SOF mattress",
+    "label": "ABOUT_SOF_MATTRESS"
+  },
+  {
+    "sentence": "It's been a month",
+    "label": "DELAY_IN_DELIVERY"
+  },
+  {
+    "sentence": "Why so long?",
+    "label": "DELAY_IN_DELIVERY"
+  },
+  {
+    "sentence": "I did not receive my order yet",
+    "label": "DELAY_IN_DELIVERY"
+  },
+  {
+    "sentence": "Why so many days",
+    "label": "DELAY_IN_DELIVERY"
+  },
+  {
+    "sentence": "It's delayed",
+    "label": "DELAY_IN_DELIVERY"
+  },
+  {
+    "sentence": "Almost 1 month over",
+    "label": "DELAY_IN_DELIVERY"
+  },
+  {
+    "sentence": "It's been 30 days my product haven't received",
+    "label": "DELAY_IN_DELIVERY"
+  },
+  {
+    "sentence": "It's been so many days",
+    "label": "DELAY_IN_DELIVERY"
+  },
+  {
+    "sentence": "It's already one month",
+    "label": "DELAY_IN_DELIVERY"
+  },
+  {
+    "sentence": "Delivery is delayed",
+    "label": "DELAY_IN_DELIVERY"
+  },
+  {
+    "sentence": "It's too late to get delivered",
+    "label": "DELAY_IN_DELIVERY"
+  },
+  {
+    "sentence": "Order Status",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "What is my order status?",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "Order related",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "Status of my order",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "What about my order",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "My order Number",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "Where is my order",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "Order #",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "Track order",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "I want updates of my order",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "I need my order status",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "Status of my order",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "State of this order",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "Order status",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "Present status",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "What is the status?",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "Current state of my order",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "What is the order status?",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "Where is my product",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "When will the order be delivered to me?",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "When can we expect",
+    "label": "ORDER_STATUS"
+  },
+  {
+    "sentence": "Need my money back",
+    "label": "RETURN_EXCHANGE"
+  },
+  {
+    "sentence": "I want refund",
+    "label": "RETURN_EXCHANGE"
+  },
+  {
+    "sentence": "Refund",
+    "label": "RETURN_EXCHANGE"
+  },
+  {
+    "sentence": "Not happy with the product please help me to return",
+    "label": "RETURN_EXCHANGE"
+  },
+  {
+    "sentence": "Help me with exchange process",
+    "label": "RETURN_EXCHANGE"
+  },
+  {
+    "sentence": "How do I return it",
+    "label": "RETURN_EXCHANGE"
+  },
+  {
+    "sentence": "I want to return my mattress",
+    "label": "RETURN_EXCHANGE"
+  },
+  {
+    "sentence": "Exchange",
+    "label": "RETURN_EXCHANGE"
+  },
+  {
+    "sentence": "Looking to exchange",
+    "label": "RETURN_EXCHANGE"
+  },
+  {
+    "sentence": "How can I replace the mattress.",
+    "label": "RETURN_EXCHANGE"
+  },
+  {
+    "sentence": "How do I return It",
+    "label": "RETURN_EXCHANGE"
+  },
+  {
+    "sentence": "Return",
+    "label": "RETURN_EXCHANGE"
+  },
+  {
+    "sentence": "Return my product",
+    "label": "RETURN_EXCHANGE"
+  },
+  {
+    "sentence": "Replacement policy",
+    "label": "RETURN_EXCHANGE"
+  },
+  {
+    "sentence": "I want to cancel my order",
+    "label": "CANCEL_ORDER"
+  },
+  {
+    "sentence": "How can I cancel my order",
+    "label": "CANCEL_ORDER"
+  },
+  {
+    "sentence": "Cancel order",
+    "label": "CANCEL_ORDER"
+  },
+  {
+    "sentence": "Cancellation status",
+    "label": "CANCEL_ORDER"
+  },
+  {
+    "sentence": "I want cancel my order",
+    "label": "CANCEL_ORDER"
+  },
+  {
+    "sentence": "Cancel the order",
+    "label": "CANCEL_ORDER"
+  },
+  {
+    "sentence": "Cancel my order",
+    "label": "CANCEL_ORDER"
+  },
+  {
+    "sentence": "Need to cancel my order",
+    "label": "CANCEL_ORDER"
+  },
+  {
+    "sentence": "Process of cancelling order",
+    "label": "CANCEL_ORDER"
+  },
+  {
+    "sentence": "Can I cancel my order here",
+    "label": "CANCEL_ORDER"
+  },
+  {
+    "sentence": "Can I get pillows?",
+    "label": "PILLOWS"
+  },
+  {
+    "sentence": "Do you sell pillows?",
+    "label": "PILLOWS"
+  },
+  {
+    "sentence": "Pillows",
+    "label": "PILLOWS"
+  },
+  {
+    "sentence": "I want to buy pillows",
+    "label": "PILLOWS"
+  },
+  {
+    "sentence": "Are Pillows available",
+    "label": "PILLOWS"
+  },
+  {
+    "sentence": "Need pair of Pillows",
+    "label": "PILLOWS"
+  },
+  {
+    "sentence": "Can I buy pillows from here",
+    "label": "PILLOWS"
+  },
+  {
+    "sentence": "Do you have cushions",
+    "label": "PILLOWS"
+  },
+  {
+    "sentence": "Can I also have pillows",
+    "label": "PILLOWS"
+  },
+  {
+    "sentence": "Is pillows available",
+    "label": "PILLOWS"
+  },
+  {
+    "sentence": "Offers",
+    "label": "OFFERS"
+  },
+  {
+    "sentence": "What are the available offers",
+    "label": "OFFERS"
+  },
+  {
+    "sentence": "Give me some discount",
+    "label": "OFFERS"
+  },
+  {
+    "sentence": "Any discounts",
+    "label": "OFFERS"
+  },
+  {
+    "sentence": "Discount",
+    "label": "OFFERS"
+  },
+  {
+    "sentence": "May I please know about the offers",
+    "label": "OFFERS"
+  },
+  {
+    "sentence": "Available offers",
+    "label": "OFFERS"
+  },
+  {
+    "sentence": "Is offer available",
+    "label": "OFFERS"
+  },
+  {
+    "sentence": "Want to know the discount",
+    "label": "OFFERS"
+  },
+  {
+    "sentence": "Tell me about the latest offers",
+    "label": "OFFERS"
+  }
+]
