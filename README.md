@@ -34,10 +34,19 @@ Identify user intents from short text inputs using traditional and transformer-b
 1. Clone this repository:
 
 git clone https://github.com/niha-bilal/Tifin.git
+
+
 cd Tifin
+
+
 2. Install dependencies:
-pip install -r requirements.txt
-3. Run the app:
+
+3. pip install -r requirements.txt
+
+
+4. Run the app:
+
+
 python app.py
 
 🧪 Model Accuracy
